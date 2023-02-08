@@ -1,2 +1,2 @@
 #!/bin/bash
-Introduction to Shell Basics
+This script prints current working directory
