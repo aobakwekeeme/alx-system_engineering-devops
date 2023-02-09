@@ -1,2 +1,1 @@
-#!/bin/bash
-A glance of System Engineering & DevOps
+Introduction to Shell Permissions
