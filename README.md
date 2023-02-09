@@ -1,2 +1,2 @@
 #!/bin/bash
-Introduction to Shell Basics
+A glance of System Engineering & DevOps
